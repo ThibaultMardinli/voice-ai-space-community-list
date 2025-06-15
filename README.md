@@ -1,4 +1,4 @@
-#ai-audio-startups
+# Voice AI startups
 Community list of startups using Voice AI.
 
 Inspired by https://github.com/csteinmetz1/ai-audio-startups
