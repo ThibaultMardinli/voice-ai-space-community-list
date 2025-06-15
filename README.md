@@ -1,3 +1,10 @@
+#ai-audio-startups
+Community list of startups using Voice AI.
+
+Inspired by https://github.com/csteinmetz1/ai-audio-startups
+
+
+
 # Eval
 
 - **<a href="https://www.coval.dev/" target="_blank">Coval</a>**: AI simulation and evaluation platform for voice and chat agents.
